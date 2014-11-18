@@ -26,4 +26,3 @@ def Hello():
 # DiffStu(1301120172,1)
 DiffClass(1301120172)
 # input('Enter')
-# input('Enter')
